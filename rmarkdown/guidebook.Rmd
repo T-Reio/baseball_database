@@ -1,0 +1,38 @@
+---
+title: "Obtaining Baseball Database"
+author: "11_tjr"
+date: "Latest Update: 1/23"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Retrosheet
+
+### Play-by-Play
+
+### Player Roster
+
+### Gamelog
+
+## Statcast
+
+### Pitch-by-Pitch Tracking Data
+
+## その他
+
+### データベースのコピー
+
+-   参照[mysqldump --- データベースバックアッププログラム](https://dev.mysql.com/doc/refman/8.0/ja/mysqldump.html)
+
+## References
+
+-   [『Rによるセイバーメトリクス入門』](https://gihyo.jp/book/2020/978-4-297-11684-2)
+
+-   [baseballr](https://gihyo.jp/book/2020/978-4-297-11684-2) Github
+
+-   
+
+-   
